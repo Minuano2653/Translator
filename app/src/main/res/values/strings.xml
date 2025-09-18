@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Мой переводчик</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="remove_from_history">Удалить из истории</string>
+    <string name="my_translator">Мой переводчик</string>
+    <string name="history">История</string>
+    <string name="favorites">Избранное</string>
+    <string name="remove_all_hisotry">Очистить</string>
+    <string name="empty_history">Истории ещё нет.\nПереведите что-нибудь</string>
+    <string name="russian">РУССКИЙ</string>
+    <string name="english">АНГЛИЙСКИЙ</string>
+    <string name="enter_word">Введите слово на английском</string>
+    <string name="clear_field">Очистить поле</string>
+    <string name="back">Назад</string>
+    <string name="no_network_connection">Нет соединения с интернетом</string>
+    <string name="response_timeout">Превышено время ожидания ответа</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="unable_to_delete_element_from_history">Не удалось удалить элемент из истории</string>
+    <string name="unable_to_clear_history">Не удалость очистить историю</string>
+    <string name="success_removing_element_from_history">Элемент успешно удалён из истории</string>
+    <string name="success_clear_history">История успешно очищена</string>
+    <string name="success_removing_element_from_favorites">Успешно удалено из избранного</string>
+    <string name="unable_to_remove_element_from_favorites">Не удалость удалить из избранного</string>
+</resources>
